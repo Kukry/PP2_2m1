@@ -77,6 +77,7 @@ public class User {
    public String toString() {
       return "User{" +
               "id=" + id +
+              "\nfirstName='" + firstName + '\'' +
               "\nlastName='" + lastName + '\'' +
               "\nemail='" + email + '\'' +
               "\ncar=" + car +
